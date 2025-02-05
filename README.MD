@@ -15,7 +15,7 @@ This project focuses on predicting house prices using different machine learning
 2.  **Clone the Repository:**  
    ```sh
    git clone https://github.com/your-username/house-prices-prediction.git  
-   cd house-prices-prediction
+   cd house-prices-prediction**
 
 ## Data Source
 The data comes from Kaggle, provided as public datasets for analytical purposes.
